@@ -253,10 +253,9 @@ Modelagem dimensional completa, pronta para consumo analítico:
 ---
 
 ## 📫 Contato
-
-Projeto desenvolvido para portfólio de Engenharia de Dados.
-
-**Autor:** [laissa.tech]
+e-mail: laissa.tech@gmail.com
+instagram: laissa.tech
+**Autor:** Laissa Rosa, durante a Imersão em Engenharia de Dados na Alura. Projeto desenvolvido para portfólio de Engenharia de Dados.
 
 ---
 
