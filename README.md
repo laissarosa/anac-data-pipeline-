@@ -1,4 +1,4 @@
-"# 🛫 VoeBem — Pipeline de Dados da Aviação Civil Brasileira (ANAC)
+# 🛫 VoeBem — Pipeline de Dados da Aviação Civil Brasileira (ANAC)
 
 > Pipeline completo de engenharia de dados construído sobre dados abertos da **ANAC** (Agência Nacional de Aviação Civil), orquestrado no **Databricks** com arquitetura **Medallion** (Bronze → Silver → Gold), ingestion automatizada, camada de Data Quality com expectations e modelo dimensional pronto para consumo analítico.
 
