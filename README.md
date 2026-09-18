@@ -181,8 +181,6 @@ Modelagem dimensional completa, pronta para consumo analítico:
 
 ## 🛠️ Skills & Ferramentas
 
-> Seção destacada para recrutadores — visão rápida do stack tecnológico utilizado.
-
 ### Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
